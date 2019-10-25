@@ -1,3 +1,5 @@
+github actions test
+
 # nuxt-ts-app-tkugimot
 
 > My breathtaking Nuxt.js project
